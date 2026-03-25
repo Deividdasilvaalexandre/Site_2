@@ -5,8 +5,8 @@ body{
     text-align: center;
 }
 
-.nav{
-    background-color: yellow;
+nav a{
+    background-color: indigo;
     color: white;
     font-size: 1rem;
     border-radius: 4px;
