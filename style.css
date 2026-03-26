@@ -11,3 +11,33 @@ nav a{
     font-size: 1.2rem;
     border-radius: 4px;
 }
+
+.foto_multimetro iframe{
+    height: 360px;
+    width: 340px;
+    border-radius: 8px;
+}
+
+.foto_clp iframe{
+    height: 360px;
+    width: 340px;
+    border-radius: 8px;   
+}
+
+.foto_arduino iframe{
+    height: 360px;
+    width: 340px;
+    border-radius: 8px;   
+}
+
+.foto_termopar iframe{
+    height: 360px;
+    width: 340px;
+    border-radius: 8px;   
+}
+
+.foto_continuidade iframe{
+    height: 360px;
+    width: 340px;
+    border-radius: 8px;   
+}
